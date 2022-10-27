@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReaganSong
-- 👀 I’m interested in ...
+- 👀 I’m interested in Games and Educational Softwares
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email: thd2rjs@naver.com
