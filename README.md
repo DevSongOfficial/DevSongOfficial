@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ReaganSong
+- 👋 Hi, I’m @ReaganSong, 21 years old. I've been doing programming for about 4 years.
 - 👀 I’m interested in Games and Educational Softwares
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C# and Unity.
 - 📫 You can reach me via email: thd2rjs@naver.com
 
 <!---
