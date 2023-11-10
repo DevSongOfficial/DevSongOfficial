@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @ReaganSong, 21 years old and have been doing programming for about 4 years.
-- 👀 I’m interested in Games and Educational Softwares.
-- 🌱 I’m currently learning C#/Unity && C++/UE5.
-- 📫 You can reach me via email: thd2rjs@naver.com
+# 👋 Hi, I’m Reagan Song
+
+I'm a 21-year-old developer and culture enthusiast.   
+Currently working for the 8th army in south korea.   
+
+# Tech Stacks   
+- C#
+- C++
+- Unity
+- UE5
+
 
 <!---
 ReaganSong/ReaganSong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
