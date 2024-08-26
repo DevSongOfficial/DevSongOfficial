@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Reagan Song
-
 I'm a 21-year-old developer and culture enthusiast.   
 Currently working for the 8th army in south korea.   
 
